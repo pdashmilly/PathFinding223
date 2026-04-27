@@ -1,4 +1,3 @@
-"""Simple Grid class for beginner version."""
 
 from cell import Cell
 
