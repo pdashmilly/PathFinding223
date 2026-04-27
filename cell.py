@@ -1,4 +1,3 @@
-"""Simple Cell class for beginner version."""
 
 
 class Cell:
