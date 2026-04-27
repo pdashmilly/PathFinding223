@@ -1,4 +1,3 @@
-"""Simple BFS implementation for beginner version."""
 
 from collections import deque
 
