@@ -1,4 +1,3 @@
-"""Beginner entry point: uses input() instead of argparse."""
 
 from a_star import AStarPathfinder
 from bfs import BFSPathfinder
